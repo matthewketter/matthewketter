@@ -1,6 +1,7 @@
 ## 🙋‍♂️ About Me
 
 **Product Leader | AI Technologist | Software Engineer**
+
 25+ years in software, specializing in product management, AI, and full-stack dev. I bridge complex tech and user-centric solutions across startups and enterprise environments.
 
 ## 🧳 Experience
@@ -27,18 +28,9 @@ Cross-time-zone coordination (India, CA, KY) **|** Cloud & DevOps: infrastructur
 
 ## 🧰 Tools & Skills
 
-**AI & Content**
-ChatGPT, Gemini, Claude, Grok, NotebookLM, ElevenLabs, Synthesia
-
-**Development**
-Python, Java, JS, PHP, SQL, HTML/CSS, Drupal, WordPress, Linux, Mac, Windows, Git, Docker, Jenkins, Visual Studio Code, Xcode, MySQL, PostgreSQL, SQLite, BigQuery, DynamoDB
-
-**Cloud & Data**
-AWS: EC2, S3, Lambda, API Gateway, CloudWatch, Google Cloud: BigQuery, Functions, Scheduler
-
-**Product & Agile**
-Scrum, Kanban, SAFe, Jira, Rally, Confluence, Trello
-
-**Analytics**
-GA, GTM, MicroStrategy, VWO, Emarsys
+**AI & Content:** ChatGPT, Gemini, Claude, Grok, NotebookLM, ElevenLabs, Synthesia
+**Development:** Python, Java, JS, PHP, SQL, HTML/CSS, Drupal, WordPress, Linux, Mac, Windows, Git, Docker, Jenkins, Visual Studio Code, Xcode, MySQL, PostgreSQL, SQLite, BigQuery, DynamoDB
+**Cloud & Data:** AWS: EC2, S3, Lambda, API Gateway, CloudWatch, Google Cloud: BigQuery, Functions, Scheduler
+**Product & Agile:** Scrum, Kanban, SAFe, Jira, Rally, Confluence, Trello
+**Analytics:** GA, GTM, MicroStrategy, VWO, Emarsys
 
