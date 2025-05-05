@@ -69,4 +69,3 @@ With 25+ years of experience in the software industry, I specialize in product m
 - Google Analytics, Google Tag Manager
 - MicroStrategy, Localytics, VWO, Emarsys
 
----
