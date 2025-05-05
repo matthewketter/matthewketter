@@ -29,7 +29,7 @@ With 25+ years of experience in the software industry, I specialize in product m
 
 ### 🗣️ Communication & Content Creation
 
--**Executive & Partner Presentations** – Headed product walkthroughs and onboarding sessions for partners, clients, and C-suite stakeholders, including partner meetings and demos
+- **Executive & Partner Presentations** – Headed product walkthroughs and onboarding sessions for partners, clients, and C-suite stakeholders, including partner meetings and demos
 - **Internal Training & Documentation** – Created training decks, user guides, and internal documentation to support product adoption, process consistency, and team onboarding
 - **Client & End-User Communication** – Created clear and accessible release notes, product guides, and in-app messaging to support feature rollouts and reduce friction
 - **Technology Writing** – Authored a series of articles for The Lane Report magazine
