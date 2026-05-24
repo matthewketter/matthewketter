@@ -1,7 +1,5 @@
 # About Me
 
-Founder, Quillmark | Product leader and software engineer building practical AI tools
-
 ## Links
 - [Personal website](https://matthewketter.com)
 - [Quillmark](https://quillmark.ai)
